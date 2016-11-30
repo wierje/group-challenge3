@@ -1,0 +1,11 @@
+/* General styling */
+
+.mainDiv {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+}
+
+#btn-main {
+  margin-left: 10em;
+}
